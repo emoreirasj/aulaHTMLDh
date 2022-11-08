@@ -1,0 +1,22 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+header h1 {
+    color : #ec183f
+}
+
+
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a img {
+    width: 40px;
+    margin: 5px;
+}
